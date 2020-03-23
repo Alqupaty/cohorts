@@ -72,11 +72,9 @@ As a student, it is your job to keep an open mind, and learn new things. Your ma
 # Community
 
 - Subscribe to our [newsletter](https://tinyletter.com/ossu).
-- Use our [forum](https://github.com/ossu/forum) if you need some help.
+- Join us on [Gitter](https://gitter.im/open-source-society/computer-science) if you need some help.
 - You can also interact through [GitHub issues](https://github.com/open-source-society/cohorts/issues).
 - Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) and [Facebook](https://www.facebook.com/ossuniversity) profile!
-
-> **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our forum for important discussions**.
 
 ## Team
 
